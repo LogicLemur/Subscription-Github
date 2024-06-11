@@ -1,4 +1,4 @@
-codeunit 50103 "Subscription Instal"
+codeunit 50103 "Subscription Install"
 {
     Subtype = Install;
 
